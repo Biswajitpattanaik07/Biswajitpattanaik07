@@ -1,261 +1,333 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Biswajit Pattanaik</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Biswajit%20Pattanaik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=55&descSize=18" width="100%"/>
+<p align="center">
+  <a href="https://github.com/Biswajitpattanaik07">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
+      <img alt="Biswajit Pattanaik animated hero banner" src="assets/dark.svg" width="100%">
+    </picture>
+  </a>
+</p>
 
-<br/><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT-Projects-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-C%2B%2B-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN-Stack-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Realtime-Socket.IO-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Computing-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-ML-red?style=for-the-badge"/>
+</p>
 
-<a href="https://github.com/Biswajitpattanaik07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Embedded+Systems+%26+Software+Developer;IoT+%2B+Cloud+%2B+AI%2FML+Engineer;Building+RYDEX+%7C+CartSphere+%7C+AI+Vehicle+Black+Box" alt="Typing SVG" />
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=IEEE+Tech+Spark+2.0+Winner;AI+Vehicle+Black+Box+Developer" />
+</p>
 
-<br/><br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pattanaikbiswajit07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Biswajitpattanaik07&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Biswajitpattanaik07?label=Followers&style=flat-square&color=0072FF" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Available-Immediately-00C9A7?style=flat-square"/>
+</p>
 
-<a href="https://github.com/Biswajitpattanaik07"><img src="https://img.shields.io/github/followers/Biswajitpattanaik07?label=Follow&style=social" /></a>
-<a href="mailto:pattanaikbiswajit07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/Biswajitpattanaik07"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
 
-</div>
+---
 
-<br/>
+### 🚀 At a Glance
 
-## 🪃 About Me
+- Embedded Systems Developer · IoT Engineer · Backend Developer
+- Expertise in DSA (C++), AI/ML, Cloud Computing, and Full-Stack Development
+- Building real-time, scalable, and intelligent systems
+- 🎯 Open to Internships & Full-Time Opportunities — available for immediate roles
 
-Results-driven **Embedded Systems and Software Developer** with strong expertise across the full technology stack — from low-level hardware interfacing and sensor integration to cloud deployment and AI-powered application development.
+---
 
-Experienced in designing and implementing end-to-end **IoT solutions** that connect physical devices with scalable, data-driven backend systems, ensuring reliable and efficient system performance. Possesses a strong foundation in **Data Structures and Algorithms**, enabling the development of optimized, production-ready software across embedded, web, and enterprise environments.
+## 💫 About Me
 
-Known for a systematic problem-solving approach and a strong passion for leveraging **IoT, AI/ML, and modern software engineering practices** to build innovative, scalable solutions that automate processes and deliver measurable real-world impact.
+Results-driven Embedded Systems and Software Developer with strong expertise across the full technology stack — from low-level hardware interfacing and sensor integration to cloud deployment and AI-powered application development.
 
-<br/>
+Experienced in designing and implementing end-to-end IoT solutions that connect physical devices with scalable, data-driven backend systems, ensuring reliable and efficient system performance. Possesses a strong foundation in Data Structures and Algorithms, enabling the development of optimized, production-ready software across embedded, web, and enterprise environments.
 
-## 🎯 Current Focus
+Known for a systematic problem-solving approach and a strong passion for leveraging IoT, AI/ML, and modern software engineering practices to build innovative, scalable solutions that automate processes and deliver measurable real-world impact.
+
+---
+
+## 🔭 Current Focus
 
 | Area | Details |
 |---|---|
 | 🚗 Automotive Embedded Systems | CAN, AUTOSAR |
-| 🛰️ IoT + Cloud Integration | ESP32 + Raspberry Pi |
-| 🧠 AI/ML in Embedded Systems | Applied ML on constrained devices |
-| 🤖 AI & ML | Model development, deployment, and MLOps |
-| 🏗️ System Designing | Scalable, fault-tolerant architecture patterns |
+| 📡 IoT + Cloud Integration | ESP32 + Raspberry Pi |
+| 🤖 AI/ML in Embedded Systems | Applied ML on constrained devices |
+| 🧠 AI & ML | Model development, deployment, and MLOps |
+| 🏗 System Designing | Scalable, fault-tolerant architecture patterns |
 | ⚙️ DevOps | CI/CD pipelines, containerization, cloud infra |
 | 💻 Backend Systems | Node.js + APIs |
 
-<br/>
+---
 
 ## 📚 Currently Learning
 
-![AUTOSAR](https://img.shields.io/badge/AUTOSAR-Automotive%20Stack-000000?style=flat-square)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![LLM Systems](https://img.shields.io/badge/LLM%20Systems-Applied%20AI-FF4B4B?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-Scalable%20Backends-808080?style=flat-square)
+<p align="left">
+  <img src="https://img.shields.io/badge/AUTOSAR-Automotive%20Stack-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LLM%20Systems-Applied%20AI-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System%20Design-Scalable%20Backends-purple?style=flat-square"/>
+</p>
 
 ## 💬 Ask Me About
 
-![Embedded Systems](https://img.shields.io/badge/Embedded%20Systems-2b2b2b?style=flat-square)
-![IoT Architecture](https://img.shields.io/badge/IoT%20Architecture-2b2b2b?style=flat-square)
-![MERN Stack](https://img.shields.io/badge/MERN%20Stack-2b2b2b?style=flat-square)
-![AI/ML Deployment](https://img.shields.io/badge/AI%2FML%20Deployment-2b2b2b?style=flat-square)
-![DSA / C++](https://img.shields.io/badge/DSA%20%2F%20C%2B%2B-2b2b2b?style=flat-square)
-
-<br/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IoT%20Architecture-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MERN%20Stack-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Deployment-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/DSA%20%2F%20C%2B%2B-lightgrey?style=flat-square"/>
+</p>
 
 ## 🎯 Skills Proficiency
 
-<!-- These bars are self-hosted in your own repo's /assets folder, so they can never break or go down -->
+<!-- These bars are self-hosted in your own repo's /assets folder so they can never go down like a live API can -->
+<p align="left">
+  <img src="assets/skill-embedded.svg" width="320"/><br/>
+  <img src="assets/skill-backend.svg" width="320"/><br/>
+  <img src="assets/skill-fullstack.svg" width="320"/><br/>
+  <img src="assets/skill-aiml.svg" width="320"/><br/>
+  <img src="assets/skill-dsa.svg" width="320"/><br/>
+  <img src="assets/skill-devops.svg" width="320"/>
+</p>
 
-<img src="assets/skill-embedded.svg" width="400"/>
-<img src="assets/skill-backend.svg" width="400"/>
-<img src="assets/skill-fullstack.svg" width="400"/>
-<img src="assets/skill-aiml.svg" width="400"/>
-<img src="assets/skill-dsa.svg" width="400"/>
-<img src="assets/skill-devops.svg" width="400"/>
-
-<br/>
+---
 
 ## 🎓 Education & Milestones
 
-```text
-2024 – Present   🏛️  Pursuing degree, deepening focus on Embedded Systems & AI
-2025             🏆  IEEE Tech Spark 2.0 – Winner
-2025             🚗  Built AI Vehicle Black Box (embedded telemetry system)
-2026             🚙  Shipped RYDEX — full-stack AI mobility platform
-2026             🛒  Shipped CartSphere — multi-vendor e-commerce SaaS
-2026             🚆  Built Bharatiya Rail Track Fault Detection AI
+```
+2024 — Present   🏫  Pursuing degree, deepening focus on Embedded Systems & AI
+2025            🏆  IEEE Tech Spark 2.0 — Winner
+2025            🚗  Built AI Vehicle Black Box (embedded telemetry system)
+2026            🚕  Shipped RYDEX — full-stack AI mobility platform
+2026            🛒  Shipped CartSphere — multi-vendor e-commerce SaaS
+2026            🚆  Built Bharatiya Rail Track Fault Detection AI
 ```
 
+---
+
+## ⚡ Fun Fact
+
+> Went from wiring sensors on a breadboard to shipping full AI-powered web apps — still can't decide if I love hardware or software more, so I do both.
+
+---
+
+## 🏆 Featured Work
+
 <br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🚕&nbsp; RYDEX</h3>
+      <sub><i>AI-Powered Mobility Platform · Flagship</i></sub>
+      <br/><br/>
+      <p>Enterprise-grade, full-stack ride-hailing platform architected like a real production system — graph-based shortest-path driver matching, dual-checkpoint OTP ride integrity, live GPS tracking, Video KYC vendor onboarding, and defense-in-depth security across Rider, Driver, and Admin domains.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT%20%2B%20OAuth2.0-black?style=flat-square"/>
+      <img src="https://img.shields.io/badge/WebSockets-Realtime-blueviolet?style=flat-square&logo=socket.io&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ZegoCloud-KYC-orange?style=flat-square"/>
+      <br/><br/>
+      <a href="https://rydex-smart-al-powered-ride-hailing-rho.vercel.app/admin/dashboard"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-00C9A7?style=for-the-badge"/></a>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🛒&nbsp; CartSphere</h3>
+      <sub><i>Multi-Vendor E-Commerce SaaS · Flagship</i></sub>
+      <br/><br/>
+      <p>Enterprise-grade, multi-tenant marketplace platform where independent vendors run isolated storefronts under one roof — GST-verified vendor onboarding, admin-gated product approvals, order-scoped real-time chat, and live revenue analytics across Admin, Vendor, and Customer dashboards.</p>
+      <br/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=auth0&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Stripe%20%2F%20Razorpay-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+      <!-- Add your CartSphere live demo link here, same pattern as RYDEX above:
+      <br/><br/>
+      <a href="YOUR_CARTSPHERE_URL"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-00C9A7?style=for-the-badge"/></a>
+      -->
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <h3>🚗&nbsp; AI Vehicle Black Box</h3>
+      <p>An embedded IoT system that continuously logs vehicle telemetry and sensor data for post-incident analysis — combining low-level hardware interfacing with real-time cloud data pipelines.</p>
+      <img src="https://img.shields.io/badge/Embedded-C%2FC%2B%2B-blue?style=flat-square"/>
+      <img src="https://img.shields.io/badge/IoT-ESP32-green?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Cloud-Realtime%20Sync-purple?style=flat-square"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <h3>🚆&nbsp; Bharatiya Rail — Track Fault AI</h3>
+      <p>An AI-powered Streamlit app for railway field engineers: EfficientNetB0 defect classification, Grad-CAM explainability, severity triage, and automated PDF inspection reports.</p>
+      <img src="https://img.shields.io/badge/TensorFlow-EfficientNetB0-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Streamlit-App-red?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Explainability-Grad--CAM-black?style=flat-square"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🏅%20IEEE%20Tech%20Spark%202.0-Winner-FFD700?style=for-the-badge"/>
+</p>
+
+---
 
 ## 📜 Certifications & Achievements
 
-![IEEE Tech Spark 2.0 Winner](https://img.shields.io/badge/🥉_IEEE_Tech_Spark_2.0-Winner-FF8C00?style=flat-square)
-![AI Vehicle Black Box](https://img.shields.io/badge/🚗_AI_Vehicle_Black_Box-Developer-FF4444?style=flat-square)
-![Bharatiya Rail AI](https://img.shields.io/badge/🚆_Bharatiya_Rail-AI_Project-4A90D9?style=flat-square)
+<p align="left">
+  <img src="https://img.shields.io/badge/🏅-IEEE%20Tech%20Spark%202.0%20Winner-FFD700?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🚗-AI%20Vehicle%20Black%20Box%20Developer-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/🚆-Bharatiya%20Rail%20AI%20Project-orange?style=flat-square"/>
+</p>
 
-<br/>
+---
 
 ## 💻 Tech Stack
 
 **Languages**
 
-![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) ![Python](https://skillicons.dev/icons?i=python)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
+</p>
 
 **Frontend**
 
-![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Three.js](https://skillicons.dev/icons?i=threejs) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![Material UI](https://skillicons.dev/icons?i=materialui)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,threejs,tailwind,bootstrap,materialui" />
+</p>
 
 **Backend & Databases**
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+</p>
 
 **AI / ML & Data**
 
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![numpy](https://img.shields.io/badge/numpy-013243?style=flat-square&logo=numpy&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
+</p>
 
 **Tools, Cloud & DevOps**
 
-![Git](https://skillicons.dev/icons?i=git) ![Docker](https://skillicons.dev/icons?i=docker) ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) ![AWS](https://skillicons.dev/icons?i=aws) ![GCP](https://skillicons.dev/icons?i=gcp) ![Postman](https://skillicons.dev/icons?i=postman) ![Vim](https://skillicons.dev/icons?i=vim) ![Figma](https://skillicons.dev/icons?i=figma) ![VSCode](https://skillicons.dev/icons?i=vscode) ![NPM](https://skillicons.dev/icons?i=npm)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,jenkins,terraform,figma,postman,npm" />
+</p>
 
-<br/>
+---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<!-- GitHub Streak -->
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Biswajitpattanaik07&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  />
+</p>
 
-<!-- streak-stats.demolab.com is a separate, more stable service than the github-readme-stats/
-     activity-graph/trophies family, which frequently go down. Keeping only what reliably renders. -->
-<img src="https://streak-stats.demolab.com?user=Biswajitpattanaik07&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
+<!-- Profile Details — generated locally by the profile-summary.yml GitHub Action, so these
+     are files committed into your own repo, not a live external service. Requires running
+     that workflow once (see setup note below). -->
+<p align="center">
+  <img
+    src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
+    alt="GitHub Profile Details"
+    width="95%"
+  />
+</p>
 
-<br/><br/>
+<!-- Languages -->
+<p align="center">
+  <img
+    src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
+    alt="Top Languages by Repo"
+  />
+  <img
+    src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
+    alt="Top Languages by Commit"
+  />
+</p>
 
-![Followers](https://img.shields.io/github/followers/Biswajitpattanaik07?label=Followers&style=for-the-badge&color=a78bfa&logo=github)
-![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Biswajitpattanaik07&label=Public%20Repos&query=public_repos&color=a78bfa&style=for-the-badge&logo=github)
+<!-- Stats -->
+<p align="center">
+  <img
+    src="./profile-summary-card-output/tokyonight/3-stats.svg"
+    alt="GitHub Stats"
+  />
+  <img
+    src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
+    alt="Productive Time"
+  />
+</p>
 
-<br/><br/>
+<!-- Profile Views -->
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Biswajitpattanaik07&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square"
+    alt="Profile Views"
+  />
+</p>
 
-📈 For the live contribution graph, language breakdown, and trophy case, see the stats panel on the right side of **[my GitHub profile page itself](https://github.com/Biswajitpattanaik07)** — GitHub renders those natively, so they're always accurate and never depend on a third-party service.
+**Contribution Snake** 🐍
 
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Biswajitpattanaik07/Biswajitpattanaik07/output/github-contribution-grid-snake-dark.svg" />
+</p>
 
-<br/>
+<blockquote align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</blockquote>
 
-## 🐍 Contribution Snake
+---
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/Biswajitpattanaik07/Biswajitpattanaik07/output/github-contribution-grid-snake.svg" width="100%"/>
-</div>
+## ☕ Support
 
-> The snake animation above renders your **real** contribution graph — see the setup note below for the one-time GitHub Action needed to generate it automatically every day.
+<!-- These are placeholder links — replace with your real Sponsors/Buy Me a Coffee/Patreon accounts, or delete this section if you don't use them -->
+<p align="center">
+  <a href="https://github.com/sponsors/Biswajitpattanaik07"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
+  <a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
+  <a href="https://www.patreon.com/"><img src="https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
+</p>
 
-<br/>
+---
 
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+</p>
 
-### 🏆 Featured Work
+<p align="center">
+  <sub>Thanks for stopping by — feel free to reach out via <a href="mailto:pattanaikbiswajit07@gmail.com">email</a> or <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3">LinkedIn</a>. If this profile inspired you, drop a ⭐ on a repo below!</sub>
+</p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🚙 RYDEX
-<i>AI-Powered Mobility Platform · Flagship</i>
-
-Enterprise-grade, full-stack ride-hailing platform architected like a real production system — graph-based shortest-path driver matching, dual-checkpoint OTP ride integrity, live GPS tracking, video KYC vendor onboarding, and defense-in-depth security across Rider, Driver, and Admin domains.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT%20%2B%20OAuth2.0-2b2b2b?style=flat-square)
-![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-4a4a4a?style=flat-square)
-![ZegoCloud](https://img.shields.io/badge/ZegoCloud-KYC-FF7A00?style=flat-square)
-
-[![Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-2ecc71?style=for-the-badge)](#)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🛒 CartSphere
-<i>Multi-Vendor E-Commerce SaaS · Flagship</i>
-
-Enterprise-grade, multi-tenant marketplace platform where independent vendors run isolated storefronts under one roof — GST-verified vendor onboarding, admin-gated product approvals, order-scoped real-time chat, and live revenue analytics across Admin, Vendor, and Customer dashboards.
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![NextAuth.js](https://img.shields.io/badge/NextAuth.js-2b2b2b?style=flat-square)
-![Stripe/Razorpay](https://img.shields.io/badge/Stripe%20%2F%20Razorpay-635BFF?style=flat-square&logo=stripe&logoColor=white)
-
-[![Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-2ecc71?style=for-the-badge)](#)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🚗 AI Vehicle Black Box
-<i>Embedded IoT Telemetry System</i>
-
-An embedded IoT system that continuously logs vehicle telemetry and sensor data for post-incident analysis — combining low-level hardware interfacing with real-time cloud data pipelines.
-
-![Embedded](https://img.shields.io/badge/Embedded-C%2FC%2B%2B-0091EA?style=flat-square)
-![IoT](https://img.shields.io/badge/IoT-ESP32-2ecc71?style=flat-square)
-![Cloud](https://img.shields.io/badge/Cloud-4a4a4a?style=flat-square)
-![Realtime Sync](https://img.shields.io/badge/Realtime%20Sync-D633FF?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-#### 🚆 Bharatiya Rail — Track Fault AI
-<i>AI-Powered Streamlit Field Tool</i>
-
-An AI-powered Streamlit app for railway field engineers: EfficientNetB0 defect classification, Grad-CAM explainability, severity triage, and automated PDF inspection reports.
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![EfficientNetB0](https://img.shields.io/badge/EfficientNetB0-FF8C00?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Explainability](https://img.shields.io/badge/Explainability-Grad--CAM-4a4a4a?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-![IEEE Tech Spark 2.0](https://img.shields.io/badge/🥉_IEEE_Tech_Spark_2.0-808080?style=flat-square)
-![WINNER](https://img.shields.io/badge/WINNER-FFD700?style=flat-square&logoColor=black)
-
-</div>
-
-📫 **Reach me:** [pattanaikbiswajit07@gmail.com](mailto:pattanaikbiswajit07@gmail.com) &nbsp;•&nbsp; [GitHub](https://github.com/Biswajitpattanaik07)
-
-<br/>
-
-### 🌐 Connect With Me
-
-<!-- Replace the placeholder usernames below (linkedin-username, twitter-username, leetcode-username, portfolio link) with your real ones -->
-
-<a href="https://linkedin.com/in/linkedin-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/twitter-username" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://leetcode.com/leetcode-username" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-<a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="mailto:pattanaikbiswajit07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
-
-### 👀 Profile Views
-
-<img src="https://komarev.com/ghpvc/?username=Biswajitpattanaik07&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" />
-
-<br/><br/>
-
-### 💡 Random Dev Quote
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-<br/><br/>
-
-> 💬 Open to internships, freelance embedded/IoT/AI projects, and collaborations. Feel free to reach out via email or open an issue on any of my repos.
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,25:0072FF,50:8A2BE2,75:DD2476,100:FF512F&height=120&section=footer"/>
