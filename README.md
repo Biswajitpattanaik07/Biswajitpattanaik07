@@ -1,11 +1,14 @@
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Biswajit%20Pattanaik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Biswajit%20Pattanaik&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Embedded%20Systems%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20Full-Stack&descAlignY=55&descSize=18" width="100%"/>
+
+<br/><br/>
 
 <a href="https://github.com/Biswajitpattanaik07">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=60&lines=Embedded+Systems+%26+Software+Developer;IoT+%2B+Cloud+%2B+AI%2FML+Engineer;Building+RYDEX+%7C+CartSphere+%7C+AI+Vehicle+Black+Box" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=90&lines=Embedded+Systems+%26+Software+Developer;IoT+%2B+Cloud+%2B+AI%2FML+Engineer;Building+RYDEX+%7C+CartSphere+%7C+AI+Vehicle+Black+Box" alt="Typing SVG" />
 </a>
+
+<br/><br/>
 
 <br/>
 
@@ -60,23 +63,12 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 
 ## 🎯 Skills Proficiency
 
-**Embedded Systems & IoT**
-![](https://progress-bar.dev/90/?scale=100&title=&width=400&color=2ecc71&suffix=%25)
-
-**Backend Development (Node.js)**
-![](https://progress-bar.dev/85/?scale=100&title=&width=400&color=2ecc71&suffix=%25)
-
-**Full-Stack (MERN / Next.js)**
-![](https://progress-bar.dev/85/?scale=100&title=&width=400&color=2ecc71&suffix=%25)
-
-**AI / ML**
-![](https://progress-bar.dev/75/?scale=100&title=&width=400&color=2ecc71&suffix=%25)
-
-**DSA (C++)**
-![](https://progress-bar.dev/80/?scale=100&title=&width=400&color=2ecc71&suffix=%25)
-
-**Cloud & DevOps**
-![](https://progress-bar.dev/70/?scale=100&title=&width=400&color=2ecc71&suffix=%25)
+`Embedded Systems & IoT`  `██████████████████░░` `90%`
+`Backend Development (Node.js)`  `█████████████████░░░` `85%`
+`Full-Stack (MERN / Next.js)`  `█████████████████░░░` `85%`
+`AI / ML`  `███████████████░░░░░` `75%`
+`DSA (C++)`  `████████████████░░░░` `80%`
+`Cloud & DevOps`  `██████████████░░░░░░` `70%`
 
 <br/>
 
