@@ -63,12 +63,14 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 
 ## 🎯 Skills Proficiency
 
-`Embedded Systems & IoT`  `██████████████████░░` `90%`
-`Backend Development (Node.js)`  `█████████████████░░░` `85%`
-`Full-Stack (MERN / Next.js)`  `█████████████████░░░` `85%`
-`AI / ML`  `███████████████░░░░░` `75%`
-`DSA (C++)`  `████████████████░░░░` `80%`
-`Cloud & DevOps`  `██████████████░░░░░░` `70%`
+<!-- These bars are self-hosted in your own repo's /assets folder, so they can never break or go down -->
+
+<img src="assets/skill-embedded.svg" width="400"/>
+<img src="assets/skill-backend.svg" width="400"/>
+<img src="assets/skill-fullstack.svg" width="400"/>
+<img src="assets/skill-aiml.svg" width="400"/>
+<img src="assets/skill-dsa.svg" width="400"/>
+<img src="assets/skill-devops.svg" width="400"/>
 
 <br/>
 
@@ -149,18 +151,109 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 
 <div align="center">
 
-### 🚀 Featured Projects
+### 🏆 Featured Work
 
-| Project | Description |
-|---|---|
-| **RYDEX** | Full-stack AI mobility platform |
-| **CartSphere** | Multi-vendor e-commerce SaaS |
-| **AI Vehicle Black Box** | Embedded telemetry system for vehicles |
-| **Bharatiya Rail Track Fault Detection AI** | AI-based rail track fault detection system |
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚙 RYDEX
+<i>AI-Powered Mobility Platform · Flagship</i>
+
+Enterprise-grade, full-stack ride-hailing platform architected like a real production system — graph-based shortest-path driver matching, dual-checkpoint OTP ride integrity, live GPS tracking, video KYC vendor onboarding, and defense-in-depth security across Rider, Driver, and Admin domains.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT%20%2B%20OAuth2.0-2b2b2b?style=flat-square)
+![WebSockets](https://img.shields.io/badge/WebSockets-Realtime-4a4a4a?style=flat-square)
+![ZegoCloud](https://img.shields.io/badge/ZegoCloud-KYC-FF7A00?style=flat-square)
+
+[![Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-2ecc71?style=for-the-badge)](#)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🛒 CartSphere
+<i>Multi-Vendor E-Commerce SaaS · Flagship</i>
+
+Enterprise-grade, multi-tenant marketplace platform where independent vendors run isolated storefronts under one roof — GST-verified vendor onboarding, admin-gated product approvals, order-scoped real-time chat, and live revenue analytics across Admin, Vendor, and Customer dashboards.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![NextAuth.js](https://img.shields.io/badge/NextAuth.js-2b2b2b?style=flat-square)
+![Stripe/Razorpay](https://img.shields.io/badge/Stripe%20%2F%20Razorpay-635BFF?style=flat-square&logo=stripe&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🔗_LIVE_DEMO-2ecc71?style=for-the-badge)](#)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🚗 AI Vehicle Black Box
+<i>Embedded IoT Telemetry System</i>
+
+An embedded IoT system that continuously logs vehicle telemetry and sensor data for post-incident analysis — combining low-level hardware interfacing with real-time cloud data pipelines.
+
+![Embedded](https://img.shields.io/badge/Embedded-C%2FC%2B%2B-0091EA?style=flat-square)
+![IoT](https://img.shields.io/badge/IoT-ESP32-2ecc71?style=flat-square)
+![Cloud](https://img.shields.io/badge/Cloud-4a4a4a?style=flat-square)
+![Realtime Sync](https://img.shields.io/badge/Realtime%20Sync-D633FF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+#### 🚆 Bharatiya Rail — Track Fault AI
+<i>AI-Powered Streamlit Field Tool</i>
+
+An AI-powered Streamlit app for railway field engineers: EfficientNetB0 defect classification, Grad-CAM explainability, severity triage, and automated PDF inspection reports.
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![EfficientNetB0](https://img.shields.io/badge/EfficientNetB0-FF8C00?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Explainability](https://img.shields.io/badge/Explainability-Grad--CAM-4a4a4a?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+![IEEE Tech Spark 2.0](https://img.shields.io/badge/🥉_IEEE_Tech_Spark_2.0-808080?style=flat-square)
+![WINNER](https://img.shields.io/badge/WINNER-FFD700?style=flat-square&logoColor=black)
+
+</div>
+
+📫 **Reach me:** [pattanaikbiswajit07@gmail.com](mailto:pattanaikbiswajit07@gmail.com) &nbsp;•&nbsp; [GitHub](https://github.com/Biswajitpattanaik07)
 
 <br/>
 
-📫 **Reach me:** [pattanaikbiswajit07@gmail.com](mailto:pattanaikbiswajit07@gmail.com) &nbsp;•&nbsp; [GitHub](https://github.com/Biswajitpattanaik07)
+### 🌐 Connect With Me
+
+<!-- Replace the placeholder usernames below (linkedin-username, twitter-username, leetcode-username, portfolio link) with your real ones -->
+
+<a href="https://linkedin.com/in/linkedin-username" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/twitter-username" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://leetcode.com/leetcode-username" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://your-portfolio-link.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-24243e?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:pattanaikbiswajit07@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Biswajitpattanaik07&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+### 💡 Random Dev Quote
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+
+<br/><br/>
+
+> 💬 Open to internships, freelance embedded/IoT/AI projects, and collaborations. Feel free to reach out via email or open an issue on any of my repos.
+
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
