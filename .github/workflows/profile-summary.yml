@@ -2,7 +2,7 @@ name: Generate Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # regenerates every 6 hours
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -18,7 +18,7 @@ jobs:
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
-          username: Biswajitpattanaik07
-          theme: tokyonight
+          USERNAME: Biswajitpattanaik07
+          TEMPLATE: tokyonight
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
