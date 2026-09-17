@@ -1,0 +1,21 @@
+name: Generate GitHub profile summary SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *'   # daily
+  workflow_dispatch:        # lets you trigger it manually
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: Biswajitpattanaik07
+          TEMPLATE: github_dark
+          # If you want the tokyonight theme specifically:
+          # TEMPLATE: tokyonight
