@@ -123,6 +123,12 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 
 <div align="center">
 
+<!-- 
+  The 4 images below use the free public github-readme-stats / activity-graph / trophies instances,
+  which are heavily overloaded and fail often. Once you deploy your own copy (see instructions below),
+  replace "github-readme-stats.vercel.app" with your own deployed URL (e.g. YOUR-PROJECT-NAME.vercel.app)
+  in all 4 lines. This makes them load reliably every time.
+-->
 <img src="https://github-readme-stats.vercel.app/api?username=Biswajitpattanaik07&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%"/>
 <img src="https://streak-stats.demolab.com?user=Biswajitpattanaik07&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
 
