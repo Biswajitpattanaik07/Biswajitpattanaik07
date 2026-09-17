@@ -123,23 +123,18 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 
 <div align="center">
 
-<!-- 
-  The 4 images below use the free public github-readme-stats / activity-graph / trophies instances,
-  which are heavily overloaded and fail often. Once you deploy your own copy (see instructions below),
-  replace "github-readme-stats.vercel.app" with your own deployed URL (e.g. YOUR-PROJECT-NAME.vercel.app)
-  in all 4 lines. This makes them load reliably every time.
--->
-<img src="https://github-readme-stats.vercel.app/api?username=Biswajitpattanaik07&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" width="48%"/>
-<img src="https://streak-stats.demolab.com?user=Biswajitpattanaik07&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswajitpattanaik07&layout=donut&theme=radical&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8" width="48%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpattanaik07&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff" width="48%"/>
+<!-- streak-stats.demolab.com is a separate, more stable service than the github-readme-stats/
+     activity-graph/trophies family, which frequently go down. Keeping only what reliably renders. -->
+<img src="https://streak-stats.demolab.com?user=Biswajitpattanaik07&theme=radical&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="60%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-trophies.vercel.app/?username=Biswajitpattanaik07&theme=radical&no-frame=true&no-bg=true&margin-w=8&row=1" width="90%"/>
+![Followers](https://img.shields.io/github/followers/Biswajitpattanaik07?label=Followers&style=for-the-badge&color=a78bfa&logo=github)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Biswajitpattanaik07&label=Public%20Repos&query=public_repos&color=a78bfa&style=for-the-badge&logo=github)
+
+<br/><br/>
+
+📈 For the live contribution graph, language breakdown, and trophy case, see the stats panel on the right side of **[my GitHub profile page itself](https://github.com/Biswajitpattanaik07)** — GitHub renders those natively, so they're always accurate and never depend on a third-party service.
 
 </div>
 
