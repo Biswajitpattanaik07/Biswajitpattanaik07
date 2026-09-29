@@ -2,11 +2,8 @@ name: Generate Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
-  workflow_dispatch:
-  push:
-    branches:
-      - main
+    - cron: "0 */6 * * *"   # every 6 hours
+  workflow_dispatch:         # manual run button
 
 permissions:
   contents: write
@@ -18,15 +15,11 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Set git identity
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Use a Personal Access Token (classic) with scopes: repo, read:user
+          # Save it in Settings > Secrets and variables > Actions as PAT
+          GITHUB_TOKEN: ${{ secrets.PAT }}
         with:
           USERNAME: Biswajitpattanaik07
-          TEMPLATE: tokyonight
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
