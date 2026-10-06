@@ -3,14 +3,21 @@ name: Generate Profile Summary Cards
 on:
   schedule:
     - cron: "0 */6 * * *"   # every 6 hours
-  workflow_dispatch:         # manual run button
+  workflow_dispatch:         # manual "Run workflow" button
+  push:
+    branches: [main]         # refresh when you push to main
 
 permissions:
   contents: write
 
+concurrency:
+  group: profile-summary
+  cancel-in-progress: true
+
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -18,8 +25,10 @@ jobs:
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # Use a Personal Access Token (classic) with scopes: repo, read:user
-          # Save it in Settings > Secrets and variables > Actions as PAT
+          # Personal Access Token (classic) with scopes: repo, read:user
+          # Save it in: Settings > Secrets and variables > Actions > New secret
+          # Name it exactly: PAT
           GITHUB_TOKEN: ${{ secrets.PAT }}
         with:
           USERNAME: Biswajitpattanaik07
+          UTC_OFFSET: 5   # India is UTC+5:30; this input takes whole hours only
