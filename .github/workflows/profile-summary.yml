@@ -2,10 +2,10 @@ name: Generate Profile Summary Cards
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
-  workflow_dispatch:         # manual "Run workflow" button
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
-    branches: [main]         # refresh when you push to main
+    branches: [main]
 
 permissions:
   contents: write
@@ -25,10 +25,10 @@ jobs:
       - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # Personal Access Token (classic) with scopes: repo, read:user
-          # Save it in: Settings > Secrets and variables > Actions > New secret
-          # Name it exactly: PAT
+          # Classic PAT with scopes: repo, read:user
           GITHUB_TOKEN: ${{ secrets.PAT }}
         with:
           USERNAME: Biswajitpattanaik07
-          UTC_OFFSET: 5   # India is UTC+5:30; this input takes whole hours only
+          UTC_OFFSET: 5
+          AUTO_PUSH: true
+          # EXCLUDE: "repo1,repo2"   # optional: repos to ignore
