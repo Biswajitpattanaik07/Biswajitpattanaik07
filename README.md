@@ -1,14 +1,8 @@
-<h1 align="center">Hi 👋, I'm Biswajit Pattanaik</h1>
-
 <p align="center">
-  <a href="https://github.com/Biswajitpattanaik07">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="assets/light.svg">
-      <img alt="Biswajit Pattanaik animated hero banner" src="assets/dark.svg" width="100%">
-    </picture>
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:0072FF,100:8A2BE2&height=200&section=header&text=Biswajit%20Pattanaik&fontSize=48&fontColor=ffffff&animation=fadeIn" width="100%"/>
 </p>
+
+<h1 align="center">Hi 👋, I'm Biswajit Pattanaik</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge"/>
@@ -21,26 +15,22 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&lines=IEEE+Tech+Spark+2.0+Winner;AI+Vehicle+Black+Box+Developer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=00F7FF&center=true&vCenter=true&width=700&height=50&lines=IEEE+Tech+Spark+2.0+Winner;AI+Vehicle+Black+Box+Developer;Embedded+%2B+IoT+%2B+Full-Stack" alt="Typing animation"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:pattanaikbiswajit07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Biswajitpattanaik07&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Biswajitpattanaik07?label=Followers&style=flat-square&color=0072FF" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Available-Immediately-00C9A7?style=flat-square"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+  <img src="https://img.shields.io/badge/Available-Immediately-00C9A7?style=flat-square" alt="Available"/>
 </p>
 
 ---
@@ -99,14 +89,13 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 
 ## 🎯 Skills Proficiency
 
-<!-- These bars are self-hosted in your own repo's /assets folder so they can never go down like a live API can -->
 <p align="left">
-  <img src="assets/skill-embedded.svg" width="320"/><br/>
-  <img src="assets/skill-backend.svg" width="320"/><br/>
-  <img src="assets/skill-fullstack.svg" width="320"/><br/>
-  <img src="assets/skill-aiml.svg" width="320"/><br/>
-  <img src="assets/skill-dsa.svg" width="320"/><br/>
-  <img src="assets/skill-devops.svg" width="320"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-Advanced-0072FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Backend-Advanced-339933?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Full--Stack-Advanced-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML-Intermediate-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA%20(C%2B%2B)-Advanced-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DevOps-Intermediate-8A2BE2?style=for-the-badge"/>
 </p>
 
 ---
@@ -132,8 +121,6 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 
 ## 🏆 Featured Work
 
-<br/>
-
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="top">
@@ -141,7 +128,6 @@ Known for a systematic problem-solving approach and a strong passion for leverag
       <sub><i>AI-Powered Mobility Platform · Flagship</i></sub>
       <br/><br/>
       <p>Enterprise-grade, full-stack ride-hailing platform architected like a real production system — graph-based shortest-path driver matching, dual-checkpoint OTP ride integrity, live GPS tracking, Video KYC vendor onboarding, and defense-in-depth security across Rider, Driver, and Admin domains.</p>
-      <br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
       <img src="https://img.shields.io/badge/JWT%20%2B%20OAuth2.0-black?style=flat-square"/>
@@ -155,21 +141,14 @@ Known for a systematic problem-solving approach and a strong passion for leverag
       <sub><i>Multi-Vendor E-Commerce SaaS · Flagship</i></sub>
       <br/><br/>
       <p>Enterprise-grade, multi-tenant marketplace platform where independent vendors run isolated storefronts under one roof — GST-verified vendor onboarding, admin-gated product approvals, order-scoped real-time chat, and live revenue analytics across Admin, Vendor, and Customer dashboards.</p>
-      <br/>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=auth0&logoColor=white"/>
       <img src="https://img.shields.io/badge/Stripe%20%2F%20Razorpay-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-      <!-- Add your CartSphere live demo link here, same pattern as RYDEX above:
-      <br/><br/>
-      <a href="YOUR_CARTSPHERE_URL"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-00C9A7?style=for-the-badge"/></a>
-      -->
     </td>
   </tr>
 </table>
-
-<br/>
 
 <table width="100%">
   <tr>
@@ -189,8 +168,6 @@ Known for a systematic problem-solving approach and a strong passion for leverag
     </td>
   </tr>
 </table>
-
-<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏅%20IEEE%20Tech%20Spark%202.0-Winner-FFD700?style=for-the-badge"/>
@@ -212,21 +189,15 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 
 **Languages**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,python" /></p>
 
 **Frontend**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,threejs,tailwind,bootstrap,materialui" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,threejs,tailwind,bootstrap,materialui" /></p>
 
 **Backend & Databases**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /></p>
 
 **AI / ML & Data**
 
@@ -240,94 +211,40 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 
 **Tools, Cloud & DevOps**
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,jenkins,terraform,figma,postman,npm" />
-</p>
+<p align="left"><img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,jenkins,terraform,figma,postman,npm" /></p>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<!-- GitHub Streak -->
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Biswajitpattanaik07&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
+  <img src="https://streak-stats.demolab.com?user=Biswajitpattanaik07&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak"/>
 </p>
 
-<!-- Profile Details — generated locally by the profile-summary.yml GitHub Action, so these
-     are files committed into your own repo, not a live external service. Requires running
-     that workflow once (see setup note below). -->
 <p align="center">
-  <img
-    src="./profile-summary-card-output/tokyonight/0-profile-details.svg"
-    alt="GitHub Profile Details"
-    width="95%"
-  />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="GitHub Profile Details" width="95%"/>
 </p>
 
-<!-- Languages -->
 <p align="center">
-  <img
-    src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg"
-    alt="Top Languages by Repo"
-  />
-  <img
-    src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg"
-    alt="Top Languages by Commit"
-  />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages by Repo"/>
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages by Commit"/>
 </p>
 
-<!-- Stats -->
 <p align="center">
-  <img
-    src="./profile-summary-card-output/tokyonight/3-stats.svg"
-    alt="GitHub Stats"
-  />
-  <img
-    src="./profile-summary-card-output/tokyonight/4-productive-time.svg"
-    alt="Productive Time"
-  />
-</p>
-
-<!-- Profile Views -->
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=Biswajitpattanaik07&label=PROFILE%20VIEWS&color=8A2BE2&style=flat-square"
-    alt="Profile Views"
-  />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats"/>
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time"/>
 </p>
 
 **Contribution Snake** 🐍
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Biswajitpattanaik07/Biswajitpattanaik07/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<blockquote align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</blockquote>
-
----
-
-## ☕ Support
-
-<!-- These are placeholder links — replace with your real Sponsors/Buy Me a Coffee/Patreon accounts, or delete this section if you don't use them -->
-<p align="center">
-  <a href="https://github.com/sponsors/Biswajitpattanaik07"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white"/></a>
-  <a href="https://www.buymeacoffee.com/"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
-  <a href="https://www.patreon.com/"><img src="https://img.shields.io/badge/Patreon-Support-F96854?style=for-the-badge&logo=patreon&logoColor=white"/></a>
+  <img src="https://raw.githubusercontent.com/Biswajitpattanaik07/Biswajitpattanaik07/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-</p>
-
-<p align="center">
-  <sub>Thanks for stopping by — feel free to reach out via <a href="mailto:pattanaikbiswajit07@gmail.com">email</a> or <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3">LinkedIn</a>. If this profile inspired you, drop a ⭐ on a repo below!</sub>
+  <sub>Thanks for stopping by — feel free to reach out via <a href="mailto:pattanaikbiswajit07@gmail.com">email</a> or <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3">LinkedIn</a>.</sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,25:0072FF,50:8A2BE2,75:DD2476,100:FF512F&height=120&section=footer"/>
