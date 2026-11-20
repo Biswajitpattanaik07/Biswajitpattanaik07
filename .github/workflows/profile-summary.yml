@@ -1,34 +1,21 @@
-name: Generate Profile Summary Cards
+name: GitHub-Profile-Summary-Cards
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
 
 permissions:
   contents: write
 
-concurrency:
-  group: profile-summary
-  cancel-in-progress: true
-
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    name: Generate profile summary cards
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v4
-
-      - name: Generate summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release/4.1.5
         env:
-          # Classic PAT with scopes: repo, read:user
-          GITHUB_TOKEN: ${{ secrets.PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: Biswajitpattanaik07
-          UTC_OFFSET: 5
-          AUTO_PUSH: true
-          # EXCLUDE: "repo1,repo2"   # optional: repos to ignore
+          USERNAME: ${{ github.repository_owner }}
