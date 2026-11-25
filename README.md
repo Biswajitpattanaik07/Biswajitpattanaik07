@@ -33,7 +33,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Biswajitpattanaik07&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Biswajitpattanaik07?label=Followers&style=flat-square&color=0072FF" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Biswajitpattanaik07?label=Stars&style=flat-square&color=FFD700" alt="Stars"/>
   <img src="https://img.shields.io/badge/Available-Immediately-00C9A7?style=flat-square" alt="Available"/>
 </p>
 
@@ -166,10 +165,6 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/🏅%20IEEE%20Tech%20Spark%202.0-Winner-FFD700?style=for-the-badge"/>
-</p>
-
 ### 🧩 How the AI Vehicle Black Box works
 
 ```mermaid
@@ -232,12 +227,14 @@ flowchart LR
 2026            🚆  Built Bharatiya Rail Track Fault Detection AI
 ```
 
-## 📜 Certifications & Achievements
+## 🏅 Achievements
 
-<p align="left">
-  <img src="https://img.shields.io/badge/🏅-IEEE%20Tech%20Spark%202.0%20Winner-FFD700?style=for-the-badge"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/🏆-IEEE%20Tech%20Spark%202.0%20Winner-FFD700?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🚗-AI%20Vehicle%20Black%20Box%20Developer-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🚆-Bharatiya%20Rail%20AI%20Project-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚕-RYDEX%20Shipped-00C9A7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🛒-CartSphere%20Shipped-0072FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚆-Bharatiya%20Rail%20AI%20Project-FF6F00?style=for-the-badge"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
@@ -281,12 +278,6 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
 
-## 🏅 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Biswajitpattanaik07&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=7" alt="GitHub Trophies"/>
-</p>
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -324,10 +315,6 @@ flowchart LR
 ## ⚡ Fun Fact
 
 > Went from wiring sensors on a breadboard to shipping full AI-powered web apps — still can't decide if I love hardware or software more, so I do both.
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Daily quote"/>
-</p>
 
 ## 🤝 Let's Connect
 
