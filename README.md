@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <img src="./assets/boot-loader.svg" alt="Animated boot loader" width="100%"/>
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:pattanaikbiswajit07@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Biswajitpattanaik07?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
@@ -22,7 +26,7 @@
   <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Full--Time-FF6F00?style=for-the-badge" alt="Open to work"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 🚀 At a Glance
 
@@ -48,7 +52,7 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 💫 About Me
 
@@ -96,7 +100,7 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   <img src="https://img.shields.io/badge/DSA%20%2F%20C%2B%2B-00599C?style=for-the-badge"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 🎯 Skills Proficiency
 
@@ -104,7 +108,7 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   <img src="./assets/skills-animated.svg" alt="Animated skill proficiency bars with percentages" width="100%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 💻 Tech Stack
 
@@ -212,7 +216,7 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   <img src="https://img.shields.io/badge/OOP-475569?style=for-the-badge"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 🧠 Applied AI: How a RAG System Works
 
@@ -220,7 +224,7 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   <img src="./assets/rag-pipeline.svg" alt="Animated RAG pipeline: documents, chunk and embed, vector database, retriever, LLM, grounded answer" width="100%"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 🏆 Featured Work
 
@@ -321,7 +325,7 @@ flowchart LR
 
 </details>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 🎓 Education & Milestones
 
@@ -345,7 +349,7 @@ flowchart LR
   <img src="https://img.shields.io/badge/🚆-Bharatiya%20Rail%20AI%20Project-FF6F00?style=for-the-badge"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 ## 📊 GitHub Analytics
 
@@ -373,7 +377,7 @@ flowchart LR
   <img src="https://raw.githubusercontent.com/Biswajitpattanaik07/Biswajitpattanaik07/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
+<img src="./assets/divider.svg" width="100%"/>
 
 ## ⚡ Fun Fact
 
