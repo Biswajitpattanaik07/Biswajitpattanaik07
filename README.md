@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9A7,50:0072FF,100:8A2BE2&height=240&section=header&text=Biswajit%20Pattanaik&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Embedded%20%C2%B7%20IoT%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20System%20Design&descSize=20&descAlignY=72" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9A7,50:0072FF,100:8A2BE2&height=240&section=header&text=Biswajit%20Pattanaik&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Embedded%20%C2%B7%20IoT%20%C2%B7%20AI%2FML%20%C2%B7%20LLM%20%26%20RAG%20%C2%B7%20Full-Stack%20%C2%B7%20System%20Design&descSize=18&descAlignY=72" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Biswajit Pattanaik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=IEEE+Tech+Spark+2.0+Winner+%F0%9F%8F%86;AI+Vehicle+Black+Box+Developer+%F0%9F%9A%97;Embedded+%2B+IoT+%2B+Full-Stack+%F0%9F%9B%A0%EF%B8%8F;Connecting+hardware+to+the+cloud+%E2%98%81%EF%B8%8F" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1200&color=00F7FF&center=true&vCenter=true&width=900&height=50&lines=IEEE+Tech+Spark+2.0+Winner+%F0%9F%8F%86;AI+Vehicle+Black+Box+Developer+%F0%9F%9A%97;Building+LLM+%2B+RAG+Systems+%F0%9F%A7%A0;Embedded+%2B+IoT+%2B+Full-Stack+%F0%9F%9B%A0%EF%B8%8F;Connecting+hardware+to+the+cloud+%E2%98%81%EF%B8%8F;Making+AI+that+retrieves%2C+reasons+%26+ships+%F0%9F%9A%80" alt="Typing animation"/>
 </p>
 
 <p align="center">
@@ -31,7 +31,8 @@
     <td width="50%" valign="top">
 
 - 🔧 **Embedded Systems Developer** · IoT Engineer · Backend Developer
-- 🧮 Advanced in **DSA (C++)**, AI/ML, Cloud, and Full-Stack
+- 🧠 **LLM & RAG** application builder · AI/ML engineer
+- 🧮 Advanced in **DSA (C++)**, Cloud, and Full-Stack
 - 🏗️ Designing **scalable, fault-tolerant** system architectures
 - 🌐 End-to-end: **sensor → firmware → cloud → web app → AI**
 
@@ -51,11 +52,11 @@
 
 ## 💫 About Me
 
-Results-driven Embedded Systems and Software Developer with strong expertise across the full technology stack — from low-level hardware interfacing and sensor integration to cloud deployment and AI-powered application development.
+Results-driven Embedded Systems and Software Developer with strong expertise across the full technology stack — from low-level hardware interfacing and sensor integration to cloud deployment and AI-powered application development, including **LLM-based applications and Retrieval-Augmented Generation (RAG)** systems.
 
 Experienced in designing and implementing end-to-end IoT solutions that connect physical devices with scalable, data-driven backend systems, ensuring reliable and efficient system performance. Possesses a strong foundation in Data Structures and Algorithms and System Design, enabling the development of optimized, production-ready software across embedded, web, and enterprise environments.
 
-Known for a systematic problem-solving approach and a strong passion for leveraging IoT, AI/ML, and modern software engineering practices to build innovative, scalable solutions that automate processes and deliver measurable real-world impact.
+Known for a systematic problem-solving approach and a strong passion for leveraging IoT, AI/ML, LLMs, and modern software engineering practices to build innovative, scalable solutions that automate processes and deliver measurable real-world impact.
 
 ---
 
@@ -65,8 +66,10 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 |---|---|
 | 🚗 Automotive Embedded Systems | CAN, AUTOSAR |
 | 📡 IoT + Cloud Integration | ESP32 + Raspberry Pi |
-| 🤖 AI/ML in Embedded Systems | Applied ML on constrained devices |
-| 🧠 AI & ML | Model development, deployment, and MLOps |
+| 🤖 AI/ML in Embedded Systems | Applied ML and TinyML on constrained devices |
+| 🧠 LLMs & Generative AI | Prompt engineering, LLM APIs, fine-tuning, AI agents |
+| 🔎 RAG Systems | Embeddings, vector databases, retrieval + reranking, grounded answers |
+| 🧪 AI & ML Ops | Model development, deployment, and MLOps |
 | 🏗 System Design | Scalable, fault-tolerant architecture patterns |
 | ⚙️ DevOps | CI/CD pipelines, containerization, cloud infra |
 | 💻 Backend Systems | Node.js + APIs |
@@ -77,6 +80,8 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   <img src="https://img.shields.io/badge/AUTOSAR-Automotive%20Stack-0072FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/LLM%20Systems-Applied%20AI-E11D48?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00C9A7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-Tool%20Use-8A2BE2?style=for-the-badge"/>
 </p>
 
 ### 💬 Ask Me About
@@ -87,6 +92,7 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   <img src="https://img.shields.io/badge/System%20Design-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MERN%20Stack-339933?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI%2FML%20Deployment-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLMs%20%26%20RAG-E11D48?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DSA%20%2F%20C%2B%2B-00599C?style=for-the-badge"/>
 </p>
 
@@ -94,50 +100,9 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 
 ## 🎯 Skills Proficiency
 
-Seven core areas, all at **Advanced** level.
-
-<table width="100%">
-  <tr>
-    <th align="left" width="38%">Area</th>
-    <th align="left" width="32%">Level</th>
-    <th align="left" width="30%">Core Tools</th>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Embedded%20Systems-0072FF?style=for-the-badge&logo=espressif&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-0072FF?style=for-the-badge"/></td>
-    <td><sub>ESP32 · Raspberry Pi · CAN · C/C++</sub></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/DSA%20(C%2B%2B)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-00599C?style=for-the-badge"/></td>
-    <td><sub>Graphs · DP · Trees · STL</sub></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-339933?style=for-the-badge"/></td>
-    <td><sub>Node.js · Express · REST · JWT</sub></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Full--Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-000000?style=for-the-badge"/></td>
-    <td><sub>MERN · Next.js · TypeScript</sub></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-FF6F00?style=for-the-badge"/></td>
-    <td><sub>TensorFlow · scikit-learn · CV</sub></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/DevOps%20%26%20Cloud-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-2496ED?style=for-the-badge"/></td>
-    <td><sub>Docker · K8s · AWS · CI/CD</sub></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/System%20Design-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white"/></td>
-    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-8A2BE2?style=for-the-badge"/></td>
-    <td><sub>Scalable · Fault-tolerant · Real-time</sub></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./assets/skills-animated.svg" alt="Animated skill proficiency bars with percentages" width="100%"/>
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
 
@@ -171,6 +136,7 @@ Seven core areas, all at **Advanced** level.
 
 <p align="left">
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -184,6 +150,27 @@ Seven core areas, all at **Advanced** level.
   <img src="https://img.shields.io/badge/Computer%20Vision-Defect%20Detection-0072FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/MLOps-Deployment-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/TinyML-Edge%20AI-00C9A7?style=for-the-badge"/>
+</p>
+
+### 🧠 LLMs, RAG & Generative AI
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-E11D48?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00C9A7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fine--Tuning-LoRA%20%2F%20PEFT-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-Tool%20Use-0072FF?style=for-the-badge"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20API-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-Vector%20Search-0F766E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-Vector%20DB-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Pinecone-Vector%20DB-0072FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-Semantic%20Search-7C3AED?style=for-the-badge"/>
 </p>
 
 ### 🔌 Embedded Systems & IoT
@@ -223,6 +210,14 @@ Seven core areas, all at **Advanced** level.
   <img src="https://img.shields.io/badge/Algorithms-Advanced-F59E0B?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Graph%20Algorithms-Shortest%20Path-EF4444?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/OOP-475569?style=for-the-badge"/>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
+
+## 🧠 Applied AI: How a RAG System Works
+
+<p align="center">
+  <img src="./assets/rag-pipeline.svg" alt="Animated RAG pipeline: documents, chunk and embed, vector database, retriever, LLM, grounded answer" width="100%"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
@@ -337,6 +332,7 @@ flowchart LR
 2026            🚕  Shipped RYDEX — full-stack AI mobility platform
 2026            🛒  Shipped CartSphere — multi-vendor e-commerce SaaS
 2026            🚆  Built Bharatiya Rail Track Fault Detection AI
+2026            🧠  Exploring LLM applications & RAG systems
 ```
 
 ## 🏅 Achievements
@@ -381,11 +377,11 @@ flowchart LR
 
 ## ⚡ Fun Fact
 
-> Went from wiring sensors on a breadboard to shipping full AI-powered web apps — still can't decide if I love hardware or software more, so I do both.
+> Went from wiring sensors on a breadboard to shipping full AI-powered web apps — and now teaching machines to retrieve, reason, and answer. Still can't decide if I love hardware or software more, so I do both.
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **internships and full-time roles** in Embedded Systems, IoT, Backend, AI/ML, and System Design. If you're building something interesting, I'd love to talk.
+I'm actively looking for **internships and full-time roles** in Embedded Systems, IoT, Backend, AI/ML, LLM/RAG, and System Design. If you're building something interesting, I'd love to talk.
 
 <p align="center">
   <a href="mailto:pattanaikbiswajit07@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20Me-00C9A7?style=for-the-badge"/></a>
@@ -396,4 +392,4 @@ I'm actively looking for **internships and full-time roles** in Embedded Systems
   <sub>⭐ If you like my work, consider starring a repo. Thanks for stopping by!</sub>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,25:0072FF,50:8A2BE2,75:DD2476,100:FF512F&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,25:0072FF,50:8A2BE2,75:DD2476,100:FF512F&height=120&section=footer&animation=waving"/>
