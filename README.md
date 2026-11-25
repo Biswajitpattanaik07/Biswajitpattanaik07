@@ -1,39 +1,25 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9A7,50:0072FF,100:8A2BE2&height=230&section=header&text=Biswajit%20Pattanaik&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Embedded%20%C2%B7%20IoT%20%C2%B7%20AI%20%C2%B7%20Full-Stack&descSize=20&descAlignY=72" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9A7,50:0072FF,100:8A2BE2&height=240&section=header&text=Biswajit%20Pattanaik&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Embedded%20%C2%B7%20IoT%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20Developer&descSize=20&descAlignY=72" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Biswajit Pattanaik</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=00F7FF&center=true&vCenter=true&width=750&height=50&lines=IEEE+Tech+Spark+2.0+Winner+%F0%9F%8F%86;AI+Vehicle+Black+Box+Developer+%F0%9F%9A%97;Embedded+%2B+IoT+%2B+Full-Stack+%F0%9F%9B%A0%EF%B8%8F;Building+things+that+connect+hardware+to+the+cloud+%E2%98%81%EF%B8%8F" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1500&color=00F7FF&center=true&vCenter=true&width=800&height=50&lines=IEEE+Tech+Spark+2.0+Winner+%F0%9F%8F%86;AI+Vehicle+Black+Box+Developer+%F0%9F%9A%97;Embedded+%2B+IoT+%2B+Full-Stack+%F0%9F%9B%A0%EF%B8%8F;Connecting+hardware+to+the+cloud+%E2%98%81%EF%B8%8F" alt="Typing animation"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Embedded-Systems-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT-Projects-green?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-C%2B%2B-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MERN-Stack-black?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Realtime-Socket.IO-success?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Cloud-Computing-purple?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI-ML-red?style=for-the-badge"/>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:pattanaikbiswajit07@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/Biswajitpattanaik07?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
-  </a>
+  <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:pattanaikbiswajit07@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://github.com/Biswajitpattanaik07?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
+  <a href="https://rydex-smart-al-powered-ride-hailing-rho.vercel.app/admin/dashboard"><img src="https://img.shields.io/badge/Live-RYDEX%20Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="RYDEX demo"/></a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Biswajitpattanaik07&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile views"/>
   <img src="https://img.shields.io/github/followers/Biswajitpattanaik07?label=Followers&style=flat-square&color=0072FF" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Available-Immediately-00C9A7?style=flat-square" alt="Available"/>
+  <img src="https://img.shields.io/badge/Status-Available%20Immediately-00C9A7?style=flat-square" alt="Available"/>
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Full--Time-FF6F00?style=flat-square" alt="Open to work"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
@@ -47,12 +33,14 @@
 - 🔧 **Embedded Systems Developer** · IoT Engineer · Backend Developer
 - 🧮 Strong in **DSA (C++)**, AI/ML, Cloud, and Full-Stack
 - ⚡ Building **real-time, scalable, intelligent** systems
+- 🌐 End-to-end: **sensor → firmware → cloud → web app → AI**
 
 </td>
     <td width="50%" valign="top">
 
 - 🏆 **IEEE Tech Spark 2.0 Winner**
 - 🚕 Shipped **RYDEX** and 🛒 **CartSphere** (flagship platforms)
+- 🚗 Built **AI Vehicle Black Box** and 🚆 **Bharatiya Rail Fault AI**
 - 🎯 **Open to Internships & Full-Time roles**, available immediately
 
 </td>
@@ -83,7 +71,7 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 | ⚙️ DevOps | CI/CD pipelines, containerization, cloud infra |
 | 💻 Backend Systems | Node.js + APIs |
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 
 <p align="left">
   <img src="https://img.shields.io/badge/AUTOSAR-Automotive%20Stack-blue?style=for-the-badge"/>
@@ -92,7 +80,7 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   <img src="https://img.shields.io/badge/System%20Design-Scalable%20Backends-purple?style=for-the-badge"/>
 </p>
 
-## 💬 Ask Me About
+### 💬 Ask Me About
 
 <p align="left">
   <img src="https://img.shields.io/badge/Embedded%20Systems-1f2937?style=for-the-badge"/>
@@ -102,15 +90,110 @@ Known for a systematic problem-solving approach and a strong passion for leverag
   <img src="https://img.shields.io/badge/DSA%20%2F%20C%2B%2B-1f2937?style=for-the-badge"/>
 </p>
 
-## 🎯 Skills Proficiency
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
+
+## 🎯 Skills Overview
+
+A quick view of where I'm strongest. Each bar reflects my self-assessed level in that area.
+
+| Area | Level | Proficiency |
+|---|---|---|
+| 🔧 Embedded Systems | **Advanced** | `██████████████████░░` 90% |
+| 🧮 DSA (C++) | **Advanced** | `██████████████████░░` 90% |
+| 💻 Backend Development | **Advanced** | `█████████████████░░░` 85% |
+| 🌐 Full-Stack Development | **Advanced** | `█████████████████░░░` 85% |
+| 🧠 AI / ML | **Intermediate** | `██████████████░░░░░░` 70% |
+| ⚙️ DevOps & Cloud | **Intermediate** | `█████████████░░░░░░░` 65% |
 
 <p align="left">
   <img src="https://img.shields.io/badge/Embedded%20Systems-Advanced-0072FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Backend-Advanced-339933?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Full--Stack-Advanced-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Intermediate-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DSA%20(C%2B%2B)-Advanced-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML-Intermediate-FF6F00?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DevOps-Intermediate-8A2BE2?style=for-the-badge"/>
+</p>
+
+## 💻 Tech Stack
+
+### 🧑‍💻 Programming Languages
+
+<p align="left"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python&perline=6" /></p>
+
+### 🎨 Frontend & UI
+
+<p align="left"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,threejs,tailwind,bootstrap,materialui,figma&perline=10" /></p>
+
+### ⚙️ Backend, APIs & Databases
+
+<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman&perline=5" /></p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-Realtime-blueviolet?style=flat-square"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
+
+### 🤖 AI / ML & Data Science
+
+<p align="left">
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CNN-EfficientNetB0-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Explainable%20AI-Grad--CAM-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-defect%20detection-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/MLOps-Deployment-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/TinyML-Edge%20AI-green?style=flat-square"/>
+</p>
+
+### 🔌 Embedded Systems & IoT
+
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded-C%2FC%2B%2B-blue?style=for-the-badge"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CAN%20Bus-Automotive-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/AUTOSAR-Learning-lightgrey?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sensor%20Interfacing-1f2937?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Telemetry%20Logging-1f2937?style=flat-square"/>
+  <img src="https://img.shields.io/badge/IoT%20to%20Cloud%20Pipelines-1f2937?style=flat-square"/>
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+
+<p align="left"><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,jenkins,terraform,npm,vercel&perline=10" /></p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+</p>
+
+### 🧠 Computer Science Fundamentals
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Data%20Structures-Advanced-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Algorithms-Advanced-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Graph%20Algorithms-Shortest%20Path-red?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System%20Design-Scalable-purple?style=flat-square"/>
+  <img src="https://img.shields.io/badge/OOP-1f2937?style=flat-square"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
@@ -239,45 +322,6 @@ flowchart LR
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
 
-## 💻 Tech Stack
-
-**Languages**
-
-<p align="left"><img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python" /></p>
-
-**Frontend**
-
-<p align="left"><img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,threejs,tailwind,bootstrap,materialui" /></p>
-
-**Backend & Databases**
-
-<p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" /></p>
-
-**AI / ML & Data**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat-square&logo=anaconda&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white"/>
-</p>
-
-**Embedded & Hardware**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CAN%20Bus-Automotive-blue?style=flat-square"/>
-</p>
-
-**Tools, Cloud & DevOps**
-
-<p align="left"><img src="https://skillicons.dev/icons?i=git,docker,kubernetes,aws,gcp,jenkins,terraform,figma,postman,npm" /></p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
-
 ## 📊 GitHub Analytics
 
 <p align="center">
@@ -296,12 +340,6 @@ flowchart LR
 <p align="center">
   <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats"/>
   <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive Time"/>
-</p>
-
-**Contribution Graph** 📈
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Biswajitpattanaik07&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="95%"/>
 </p>
 
 **Contribution Snake** 🐍
