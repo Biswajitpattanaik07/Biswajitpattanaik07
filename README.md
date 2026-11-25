@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9A7,50:0072FF,100:8A2BE2&height=240&section=header&text=Biswajit%20Pattanaik&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Embedded%20%C2%B7%20IoT%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20Developer&descSize=20&descAlignY=72" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9A7,50:0072FF,100:8A2BE2&height=240&section=header&text=Biswajit%20Pattanaik&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Embedded%20%C2%B7%20IoT%20%C2%B7%20AI%2FML%20%C2%B7%20Full-Stack%20%C2%B7%20System%20Design&descSize=20&descAlignY=72" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Biswajit Pattanaik</h1>
@@ -9,17 +9,17 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3"><img src="https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/biswajit-pattanaik-3586b82b3"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:pattanaikbiswajit07@gmail.com"><img src="https://img.shields.io/badge/Email-Hire%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/Biswajitpattanaik07?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/></a>
   <a href="https://rydex-smart-al-powered-ride-hailing-rho.vercel.app/admin/dashboard"><img src="https://img.shields.io/badge/Live-RYDEX%20Demo-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="RYDEX demo"/></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Biswajitpattanaik07&label=Profile%20Views&color=8A2BE2&style=flat-square" alt="Profile views"/>
-  <img src="https://img.shields.io/github/followers/Biswajitpattanaik07?label=Followers&style=flat-square&color=0072FF" alt="Followers"/>
-  <img src="https://img.shields.io/badge/Status-Available%20Immediately-00C9A7?style=flat-square" alt="Available"/>
-  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Full--Time-FF6F00?style=flat-square" alt="Open to work"/>
+  <img src="https://komarev.com/ghpvc/?username=Biswajitpattanaik07&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile views"/>
+  <img src="https://img.shields.io/github/followers/Biswajitpattanaik07?label=Followers&style=for-the-badge&color=0072FF&logo=github" alt="Followers"/>
+  <img src="https://img.shields.io/badge/Status-Available%20Immediately-00C9A7?style=for-the-badge" alt="Available"/>
+  <img src="https://img.shields.io/badge/Open%20To-Internships%20%26%20Full--Time-FF6F00?style=for-the-badge" alt="Open to work"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
@@ -31,8 +31,8 @@
     <td width="50%" valign="top">
 
 - 🔧 **Embedded Systems Developer** · IoT Engineer · Backend Developer
-- 🧮 Strong in **DSA (C++)**, AI/ML, Cloud, and Full-Stack
-- ⚡ Building **real-time, scalable, intelligent** systems
+- 🧮 Advanced in **DSA (C++)**, AI/ML, Cloud, and Full-Stack
+- 🏗️ Designing **scalable, fault-tolerant** system architectures
 - 🌐 End-to-end: **sensor → firmware → cloud → web app → AI**
 
 </td>
@@ -53,7 +53,7 @@
 
 Results-driven Embedded Systems and Software Developer with strong expertise across the full technology stack — from low-level hardware interfacing and sensor integration to cloud deployment and AI-powered application development.
 
-Experienced in designing and implementing end-to-end IoT solutions that connect physical devices with scalable, data-driven backend systems, ensuring reliable and efficient system performance. Possesses a strong foundation in Data Structures and Algorithms, enabling the development of optimized, production-ready software across embedded, web, and enterprise environments.
+Experienced in designing and implementing end-to-end IoT solutions that connect physical devices with scalable, data-driven backend systems, ensuring reliable and efficient system performance. Possesses a strong foundation in Data Structures and Algorithms and System Design, enabling the development of optimized, production-ready software across embedded, web, and enterprise environments.
 
 Known for a systematic problem-solving approach and a strong passion for leveraging IoT, AI/ML, and modern software engineering practices to build innovative, scalable solutions that automate processes and deliver measurable real-world impact.
 
@@ -67,52 +67,79 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 | 📡 IoT + Cloud Integration | ESP32 + Raspberry Pi |
 | 🤖 AI/ML in Embedded Systems | Applied ML on constrained devices |
 | 🧠 AI & ML | Model development, deployment, and MLOps |
-| 🏗 System Designing | Scalable, fault-tolerant architecture patterns |
+| 🏗 System Design | Scalable, fault-tolerant architecture patterns |
 | ⚙️ DevOps | CI/CD pipelines, containerization, cloud infra |
 | 💻 Backend Systems | Node.js + APIs |
 
 ### 📚 Currently Learning
 
 <p align="left">
-  <img src="https://img.shields.io/badge/AUTOSAR-Automotive%20Stack-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AUTOSAR-Automotive%20Stack-0072FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM%20Systems-Applied%20AI-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-Scalable%20Backends-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LLM%20Systems-Applied%20AI-E11D48?style=for-the-badge"/>
 </p>
 
 ### 💬 Ask Me About
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-1f2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/IoT%20Architecture-1f2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MERN%20Stack-1f2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%2FML%20Deployment-1f2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA%20%2F%20C%2B%2B-1f2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded%20Systems-0072FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT%20Architecture-00C9A7?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN%20Stack-339933?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML%20Deployment-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA%20%2F%20C%2B%2B-00599C?style=for-the-badge"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
 
-## 🎯 Skills Overview
+## 🎯 Skills Proficiency
 
-A quick view of where I'm strongest. Each bar reflects my self-assessed level in that area.
+Seven core areas, all at **Advanced** level.
 
-| Area | Level | Proficiency |
-|---|---|---|
-| 🔧 Embedded Systems | **Advanced** | `██████████████████░░` 90% |
-| 🧮 DSA (C++) | **Advanced** | `██████████████████░░` 90% |
-| 💻 Backend Development | **Advanced** | `█████████████████░░░` 85% |
-| 🌐 Full-Stack Development | **Advanced** | `█████████████████░░░` 85% |
-| 🧠 AI / ML | **Intermediate** | `██████████████░░░░░░` 70% |
-| ⚙️ DevOps & Cloud | **Intermediate** | `█████████████░░░░░░░` 65% |
+<table width="100%">
+  <tr>
+    <th align="left" width="38%">Area</th>
+    <th align="left" width="32%">Level</th>
+    <th align="left" width="30%">Core Tools</th>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Embedded%20Systems-0072FF?style=for-the-badge&logo=espressif&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-0072FF?style=for-the-badge"/></td>
+    <td><sub>ESP32 · Raspberry Pi · CAN · C/C++</sub></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/DSA%20(C%2B%2B)-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-00599C?style=for-the-badge"/></td>
+    <td><sub>Graphs · DP · Trees · STL</sub></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-339933?style=for-the-badge"/></td>
+    <td><sub>Node.js · Express · REST · JWT</sub></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Full--Stack-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-000000?style=for-the-badge"/></td>
+    <td><sub>MERN · Next.js · TypeScript</sub></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/AI%20%2F%20ML-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-FF6F00?style=for-the-badge"/></td>
+    <td><sub>TensorFlow · scikit-learn · CV</sub></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/DevOps%20%26%20Cloud-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-2496ED?style=for-the-badge"/></td>
+    <td><sub>Docker · K8s · AWS · CI/CD</sub></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/System%20Design-8A2BE2?style=for-the-badge&logo=databricks&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/ADVANCED-★★★★★-8A2BE2?style=for-the-badge"/></td>
+    <td><sub>Scalable · Fault-tolerant · Real-time</sub></td>
+  </tr>
+</table>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-Advanced-0072FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Backend-Advanced-339933?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Full--Stack-Advanced-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA%20(C%2B%2B)-Advanced-orange?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/AI%2FML-Intermediate-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DevOps-Intermediate-8A2BE2?style=for-the-badge"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
 
 ## 💻 Tech Stack
 
@@ -129,34 +156,34 @@ A quick view of where I'm strongest. Each bar reflects my self-assessed level in
 <p align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postman&perline=5" /></p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-  <img src="https://img.shields.io/badge/WebSockets-Realtime-blueviolet?style=flat-square"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
-  <img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=flat-square"/>
-  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=auth0&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WebSockets-Realtime-6D28D9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OAuth%202.0-EB5424?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NextAuth.js-000000?style=for-the-badge&logo=auth0&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
 ### 🤖 AI / ML & Data Science
 
 <p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CNN-EfficientNetB0-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Explainable%20AI-Grad--CAM-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-defect%20detection-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/MLOps-Deployment-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/TinyML-Edge%20AI-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/CNN-EfficientNetB0-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Explainable%20AI-Grad--CAM-111827?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Computer%20Vision-Defect%20Detection-0072FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MLOps-Deployment-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/TinyML-Edge%20AI-00C9A7?style=for-the-badge"/>
 </p>
 
 ### 🔌 Embedded Systems & IoT
@@ -165,15 +192,15 @@ A quick view of where I'm strongest. Each bar reflects my self-assessed level in
   <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
   <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Embedded-C%2FC%2B%2B-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embedded-C%2FC%2B%2B-0072FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/CAN%20Bus-Automotive-1D4ED8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AUTOSAR-Learning-64748B?style=for-the-badge"/>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CAN%20Bus-Automotive-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/AUTOSAR-Learning-lightgrey?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Sensor%20Interfacing-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Telemetry%20Logging-1f2937?style=flat-square"/>
-  <img src="https://img.shields.io/badge/IoT%20to%20Cloud%20Pipelines-1f2937?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sensor%20Interfacing-0F766E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Telemetry%20Logging-0369A1?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/IoT%20to%20Cloud%20Pipelines-7C3AED?style=for-the-badge"/>
 </p>
 
 ### ☁️ Cloud, DevOps & Tools
@@ -181,19 +208,21 @@ A quick view of where I'm strongest. Each bar reflects my self-assessed level in
 <p align="left"><img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,jenkins,terraform,npm,vercel&perline=10" /></p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Infrastructure%20as%20Code-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Containerization-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
 </p>
 
-### 🧠 Computer Science Fundamentals
+### 🏗️ System Design & CS Fundamentals
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Data%20Structures-Advanced-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Algorithms-Advanced-orange?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Graph%20Algorithms-Shortest%20Path-red?style=flat-square"/>
-  <img src="https://img.shields.io/badge/System%20Design-Scalable-purple?style=flat-square"/>
-  <img src="https://img.shields.io/badge/OOP-1f2937?style=flat-square"/>
+  <img src="https://img.shields.io/badge/System%20Design-Scalable-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Fault--Tolerant-Architecture-DC2626?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Real--Time-Systems-0072FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Data%20Structures-Advanced-F97316?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Algorithms-Advanced-F59E0B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Graph%20Algorithms-Shortest%20Path-EF4444?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OOP-475569?style=for-the-badge"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00C9A7,50:0072FF,100:8A2BE2&height=3" width="100%"/>
@@ -208,10 +237,10 @@ A quick view of where I'm strongest. Each bar reflects my self-assessed level in
       <br/><br/>
       <p>Enterprise-grade, full-stack ride-hailing platform architected like a real production system — graph-based shortest-path driver matching, dual-checkpoint OTP ride integrity, live GPS tracking, Video KYC vendor onboarding, and defense-in-depth security across Rider, Driver, and Admin domains.</p>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JWT%20%2B%20OAuth2.0-black?style=flat-square"/>
-      <img src="https://img.shields.io/badge/WebSockets-Realtime-blueviolet?style=flat-square&logo=socket.io&logoColor=white"/>
-      <img src="https://img.shields.io/badge/ZegoCloud-KYC-orange?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT%20%2B%20OAuth2.0-000000?style=flat-square"/>
+      <img src="https://img.shields.io/badge/WebSockets-Realtime-6D28D9?style=flat-square&logo=socketdotio&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ZegoCloud-KYC-FF6F00?style=flat-square"/>
       <br/><br/>
       <a href="https://rydex-smart-al-powered-ride-hailing-rho.vercel.app/admin/dashboard"><img src="https://img.shields.io/badge/🔗%20Live%20Demo-00C9A7?style=for-the-badge"/></a>
     </td>
@@ -234,16 +263,16 @@ A quick view of where I'm strongest. Each bar reflects my self-assessed level in
     <td width="50%" align="center" valign="top">
       <h3>🚗&nbsp; AI Vehicle Black Box</h3>
       <p>An embedded IoT system that continuously logs vehicle telemetry and sensor data for post-incident analysis — combining low-level hardware interfacing with real-time cloud data pipelines.</p>
-      <img src="https://img.shields.io/badge/Embedded-C%2FC%2B%2B-blue?style=flat-square"/>
-      <img src="https://img.shields.io/badge/IoT-ESP32-green?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Cloud-Realtime%20Sync-purple?style=flat-square"/>
+      <img src="https://img.shields.io/badge/Embedded-C%2FC%2B%2B-0072FF?style=flat-square"/>
+      <img src="https://img.shields.io/badge/IoT-ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Cloud-Realtime%20Sync-8A2BE2?style=flat-square"/>
     </td>
     <td width="50%" align="center" valign="top">
       <h3>🚆&nbsp; Bharatiya Rail — Track Fault AI</h3>
       <p>An AI-powered Streamlit app for railway field engineers: EfficientNetB0 defect classification, Grad-CAM explainability, severity triage, and automated PDF inspection reports.</p>
-      <img src="https://img.shields.io/badge/TensorFlow-EfficientNetB0-orange?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Streamlit-App-red?style=flat-square"/>
-      <img src="https://img.shields.io/badge/Explainability-Grad--CAM-black?style=flat-square"/>
+      <img src="https://img.shields.io/badge/TensorFlow-EfficientNetB0-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Explainability-Grad--CAM-111827?style=flat-square"/>
     </td>
   </tr>
 </table>
@@ -314,9 +343,9 @@ flowchart LR
 
 <p align="center">
   <img src="https://img.shields.io/badge/🏆-IEEE%20Tech%20Spark%202.0%20Winner-FFD700?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🚗-AI%20Vehicle%20Black%20Box%20Developer-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🚗-AI%20Vehicle%20Black%20Box%20Developer-0072FF?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🚕-RYDEX%20Shipped-00C9A7?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/🛒-CartSphere%20Shipped-0072FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🛒-CartSphere%20Shipped-8A2BE2?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🚆-Bharatiya%20Rail%20AI%20Project-FF6F00?style=for-the-badge"/>
 </p>
 
@@ -356,7 +385,7 @@ flowchart LR
 
 ## 🤝 Let's Connect
 
-I'm actively looking for **internships and full-time roles** in Embedded Systems, IoT, Backend, and AI/ML. If you're building something interesting, I'd love to talk.
+I'm actively looking for **internships and full-time roles** in Embedded Systems, IoT, Backend, AI/ML, and System Design. If you're building something interesting, I'd love to talk.
 
 <p align="center">
   <a href="mailto:pattanaikbiswajit07@gmail.com"><img src="https://img.shields.io/badge/📧%20Email%20Me-00C9A7?style=for-the-badge"/></a>
