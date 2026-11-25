@@ -218,7 +218,7 @@ Known for a systematic problem-solving approach and a strong passion for leverag
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Biswajitpattanaik07&theme=tokyonight&hide_border=true&v=2" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Biswajitpattanaik07&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
