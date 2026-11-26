@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:00C9A7,50:0072FF,100:8A2BE2&height=240&section=header&text=Biswajit%20Pattanaik&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Embedded%20%C2%B7%20IoT%20%C2%B7%20AI%2FML%20%C2%B7%20LLM%20%26%20RAG%20%C2%B7%20Full-Stack%20%C2%B7%20System%20Design&descSize=18&descAlignY=72" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:0072FF,100:8A2BE2&height=240&section=header&text=Biswajit%20Pattanaik&fontSize=52&fontColor=ffffff&animation=twinkling&desc=Embedded%20%7C%20IoT%20%7C%20AI%2FML%20%7C%20LLM%20and%20RAG%20%7C%20Full-Stack&descSize=18&descAlignY=72" width="100%"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Biswajit Pattanaik</h1>
